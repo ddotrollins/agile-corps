@@ -6,4 +6,4 @@ We accomplish this through instruction customized to the organizations areas of 
 # Related Documentation
 - [Program Folder](https://drive.google.com/open?id=0B38LQ8842Nn6a25GT1BnRHdkZkU)
 - [DOL WHD Cohort Folder](https://drive.google.com/open?id=0B4N9E4M4jNG4bGZFRk1zYVZrYlk)
-- [Agile Corps Impact Report (DOL WHD)](https://drive.google.com/open?id=1WnWLMdpRJhg5Q0ocrHfxEZ0NoHYCQnntoYSgt6zbIsA)
+- - [Agile Corps Impact Report (DOL WHD)](https://drive.google.com/open?id=1WnWLMdpRJhg5Q0ocrHfxEZ0NoHYCQnntoYSgt6zbIsA)
